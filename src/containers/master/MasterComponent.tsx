@@ -133,7 +133,7 @@ export class MasterComponent extends Component<IMasterComponentProps, IMasterCom
           <LinearProgress variant='determinate' value={progress.percent} />
         </div>
         <div className='master__loading animate-fading2' style={{ display: (global.showTopLoading ? 'flex' : 'none') }}>
-          <div className='title'>Loading ... </div>
+          <div className='title'>Cargando ... </div>
         </div>
        {progress.visible ? <MasterLoading /> : ''}
       <MasterRouter enabled={!loading} data={{uid}} />
