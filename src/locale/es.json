@@ -1,0 +1,156 @@
+{
+    "sidebar" : {
+        "home": "Principal",
+        "profile": "Perfil",
+        "people": "Personas",
+        "settings": "Configuración",
+        "sendFeedback": "Enviar comentario"
+
+    },
+    "header": {
+        "home":"Principal",
+        "notificationTooltip": "Notificaciones",
+        "myAccount": "Mi cuenta",
+        "logout": "Cerrar sesión"
+
+    },
+    "home": {
+        "postWriteButtonText": "¿Qué estás pensando?"
+    },
+    "post": {
+        "edit": "Editar",
+        "delete": "Eliminar",
+        "disableComments": "Desactivar comentarios",
+        "disableSharing": "Desactivar compartir",
+        "enableComments": "Habilitar comentarios",
+        "enableSharing": "Habilitar compartir",
+        "public": "Público",
+        "textareaPlaceholder": "¿Qué estás pensando?",
+        "moreTooltip": "Más",
+        "postButton": "PUBLICAR",
+        "cancelButton": "CANCELAR",
+        "updateButton": "ACTUALIZAR",
+        "copyLinkButton": "Copiar enlace"
+
+    },
+    "imageGallery": {
+        "uploadButton": "Subir",
+        "cancelButton": "Cancelar"
+    },
+    "image": {
+        "notLoaded": "¡La imagen no ha sido cargada!"
+    },
+    "comment": {
+        "postButton": "PUBLICAR",
+        "cancelButton": "CANCELAR",
+        "updateButton": "ACTUALIZAR",
+        "addCommentPlaceholder": "Añadir un comentario ...",
+        "updateCommentPlaceholder": "Escribe tu comentario ...",
+        "replyButton": "Replicar",
+        "editButton": "Editar",
+        "deleteButton": "Eliminar"
+    },
+    "profile": {
+        "editProfileButton": "Editar perfil",
+        "cancelButton": "CANCELAR",
+        "updateButton": "ACTUALIZAR",
+        "fullName": "Nombre completo",
+        "tagline": "Lema",
+        "personalInformationLabel": "Información personal",
+        "headPostsLabel": "Publicaciones de ${userName}",
+        "nothingSharedLabel": " Nada se ha comartido",
+        "chooseAvatarDialogTitle": "Elije una imagen como avatar",
+        "chooseBanerDialogTitle": "Elije una imagen de portada"
+    },
+    "people": {
+        "findPeopleTab": "BUSCAR PERSONAS",
+        "followingTab": "SIGUIENDO",
+        "followersTab": "SEGUIDORES",
+        "suggestionsForYouLabel": "Sugerencias para tí",
+        "nothingToShowLabel": "¡Nada para mostrar! :(",
+        "followingLabel": "Siguiendo",
+        "noFollowingLabel": "¡No estás siguiendo a nadie!",
+        "followersLabel": "Seguidores",
+        "noFollowersLabel": "¡No tienes seguidores!"
+    },
+    "userBox": {
+        "followButton": "SEGUIR",
+        "cancelButton": "CANCELAR",
+        "numberOfCircleButton": "${circlesCount} Círculos",
+        "doneButton": "HECHO",
+        "groupNamePlaceholder": "Nombre del grupo",
+        "createCircleTooltip": "Crear círculo"
+
+    },
+    "changePassword": {
+        "title": "Cambiar contraseña",
+        "newPasswordLabel": "Nueva contraseña",
+        "confirmPasswordLabel": "Confirmar contraseña",
+        "homeButton": "PRINCIPAL",
+        "changePasswordButton": "CAMBIAR CONTRASEÑA",
+        "newPasswordRequiredError": "Este campo es requerido",
+        "confirmPasswordRequiredError": "Este campo es requerido",
+        "confirmPasswordEqualNewPasswordError": "¡La contraseña y su confirmación deben ser iguales!"
+
+    },
+    "feedback": {
+        "textareaPlaceholder": "¿Cómo te sientes?",
+        "sadTooltip":  "Triste",
+        "acceptableTooltip":  "Bien",
+        "happyTooltip":  "Feliz",
+        "awesomeTooltip":  "Asombrado",
+        "appreciateMessage": "Agradecemos su amable apoyo como siempre ;)",
+        "sendingMessage": "¡Tu comentario ha sido enviado!",
+        "errorMessage": "Error al enviar el mensaje :( "
+    },
+    "login": {
+        "title": "Iniciar Sesión",
+        "emailLabel": "Correo",
+        "passwordLabel": "Contraseña",
+        "emailRequiredError": "Este campo es requerido",
+        "passwordRequiredError": "Este campo es requerido",
+        "unicahdomain": "No eres una cuenta UNICAH",
+        "createAccountButton": "CREAR UNA CUENTA",
+        "loginButton": "INICIAR",
+        "anonimous": "ANÓNIMO",
+        "forgetPasswordMessage": "¿Has olvidado tu contraseña?",
+        "resetPasswordLabel": "Restablecer contraseña."
+    },
+    "signup": {
+        "title":"CREAR CUENTA",
+        "fullNameLabel": "Nombre completo",
+        "emailLabel": "Correo",
+        "passwordLabel": "Contraseña",
+        "confirmPasswordLabel": "Confirmar contraseña",
+        "validNameError":"Por favor ingresa un nombre válido.",
+        "validEmailError": "Por favor ingresa un correo válido.",
+        "emailRequiredError": "Este campo es requerido",
+        "passwordRequiredError": "Este campo es requerido",
+        "confirmRequiredError": "Este campo es requerido",
+        "passwordEqualConfirmError": "Este campo debe ser igual a confirmar contraseña",
+        "confirmEqualPasswordError": "Este campo debe ser igual a la contraseña.",
+        "loginButton": "INICIAR",
+        "createButton": "CREAR"
+
+    },
+    "resetPassword": {
+        "title": "Reestablecer contraseña",
+        "emailLabel": "Correo",
+        "backButton": "ATRÁS",
+        "resetPasswordButton": "RESTABLECER CONTRASEÑA",
+        "emailRequiredError": "Este campo es requerido.",
+        "description": "Ingrese su correo electrónico y haga clic en `RESTABLECER CONTRASEÑA`. Si no, haga clic en `ATRÁS`. Le enviaremos un correo electrónico que contiene el enlace de restablecer contraseña."
+
+    },
+    "emailVerification": {
+        "title": "Verificación de correo",
+        "homeButton": "PRINCIPAL",
+        "sendButton": "Enviar correo de verificación",
+        "description": "Ya se le ha enviado un correo electrónico de verificación. Por favor revise su bandeja de entrada. Si no pudo ver el correo electrónico, vuelva a enviar la verificación por correo electrónico."
+    },
+    "common": {
+        "sentRequestMessage": "Su solicitud ha sido enviada.",
+        "successfulRequestMessage": "Solicitud exitosa."
+    }
+    
+}
